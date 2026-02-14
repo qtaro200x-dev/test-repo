@@ -6,6 +6,8 @@ ZONE_ID = "936830c18137e5457a1a3758bac24502"
 def test():
     print("Testing CloudFlare DNS script...")
 
+def test2():
+    print("Testing CloudFlare DNS script...")
 
 def format_ttl(ttl):
     if ttl == 1:
