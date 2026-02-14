@@ -9,9 +9,6 @@ def test():
 def test2():
     print("Testing CloudFlare DNS script...")
 
-def test3():
-    print("Testing CloudFlare DNS script...")
-
 def format_ttl(ttl):
     if ttl == 1:
         return "auto"
