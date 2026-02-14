@@ -3,7 +3,8 @@ import requests
 API_TOKEN = "v1br5a7vdcfUwxNhQH3WfYHZs_BmMk7OO6ue0WDb"
 ZONE_ID = "936830c18137e5457a1a3758bac24502"
 
-
+def test():
+    print("Testing CloudFlare DNS script...")
 
 
 def format_ttl(ttl):
